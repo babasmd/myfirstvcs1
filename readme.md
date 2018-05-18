@@ -1,6 +1,6 @@
-demonstrating git capabilites for usage
+demonstrating git capabilites for usage  modifying
 
- modifying decent demonstrating
+
 
 
 todo: need to add branching strategy
